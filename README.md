@@ -1,2 +1,2 @@
-# Real-time-P300-BCI
-Data recording and online classification
+# Real-Time-P300-BCI
+Data Recording and Online Classification
