@@ -1,0 +1,35 @@
+Recording Information
+Date & Time: 2018_1_15_15_58_15
+Subject: Behraz Farrokhi
+I3232
+-------------------------------
+
+Session 3: Online
+
+Paradigm: GC3_2
+
+Run 2
+
+Commands: OnLeftRightUpDownCloseOpenIdleIdleIdleIdleIdleIdleIdle
+
+Number of blocks per run: 14
+
+Number of trials per block: 10
+
+Number of flashing keys: 7
+
+On duration (ms): 100
+
+Off duration (ms): 75
+
+Band-pass filter of gtec. (Hz): 0.1-100
+
+Sampling frequency (Hz): 256
+
+Number of channels: 8
+
+Channels: FzCzP3PzP4PO7PO8Oz
+
+Reference: Left Earlobe
+
+Ground: FPz
