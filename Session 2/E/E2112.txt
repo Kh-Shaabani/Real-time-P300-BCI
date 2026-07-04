@@ -1,0 +1,35 @@
+Recording Information
+Date & Time: 2017_11_13_15_58_39
+Subject: Maryam Mostafalu
+E2112
+-------------------------------
+
+Session 2: Offline
+
+Paradigm: GC1_2
+
+Run 1
+
+Commands: On, Left, Right, Up, Down, Close, Open, Idle, Idle, Idle, Idle, Idle, Idle, Idle.
+
+Number of blocks per run: 14
+
+Number of trials per block: 10
+
+Number of flashing keys: 7
+
+On duration (ms): 100
+
+Off duration (ms): 75
+
+Band-pass filter of gtec. (Hz): 0.1-100
+
+Sampling frequency (Hz): 256
+
+Number of channels: 8
+
+Channels: Fz, Cz, P3, Pz, P4, PO7, PO8, Oz.
+
+Reference: Left Earlobe
+
+Ground: FPz
